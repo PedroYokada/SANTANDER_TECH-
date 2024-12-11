@@ -1,6 +1,6 @@
 # 💻 Curso Santander Tech+
 
-Neste curso do Santander Tech+, irei colocar os projetos que desenvolverei. A trilha escolhida por mim foi a de **Front-End**. Os cursos que irei fazer nesta trilha são:
+Neste curso do Santander Tech+, ofertado pela Ada Tech, irei colocar os projetos que desenvolverei. A trilha escolhida por mim foi a de **Front-End**. Os cursos que irei fazer nesta trilha são:
 
 ### 📚 Cursos:
 
