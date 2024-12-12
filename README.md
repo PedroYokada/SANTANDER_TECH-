@@ -5,7 +5,7 @@ Neste curso do Santander Tech+, ofertado pela Ada Tech, irei colocar os projetos
 ### 📚 Cursos:
 
 - ![HTML Icon](https://img.icons8.com/color/20/html-5.png) **HTML**  
-  [Adicionar link aqui]
+  [https://github.com/PedroYokada/SANTANDER_TECH-/tree/main/HTML/EXERCICIOS_HTML]
 
 - ![CSS Icon](https://img.icons8.com/color/20/css3.png) **CSS**  
   [Adicionar link aqui]
