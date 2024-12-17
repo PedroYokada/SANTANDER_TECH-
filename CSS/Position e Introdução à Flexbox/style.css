@@ -1,0 +1,165 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+h1 {
+  color: #000000;
+  font-size: 9.6rem;
+  font-weight: 400;
+  text-align: center;
+  font-style: italic;
+  text-transform: lowercase;
+  font-family: "Comic Neue", cursive;
+  margin: 1rem;
+}
+
+h2,
+h3 {
+  font-size: 3.2rem;
+  margin: 1rem;
+}
+
+ol,
+ul {
+  font-size: 2rem;
+  padding-left: 2rem;
+  margin: 1rem;
+}
+
+ul {
+  list-style: circle;
+}
+
+ol {
+  list-style: upper-roman;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Comic Neue", cursive;
+}
+
+body {
+  background-color: rgb(136, 50, 100);
+  color: rgb(0, 0, 0);
+}
+
+main {
+  padding-top: 7rem;
+}
+
+table,
+th,
+td {
+  border: 0.3rem solid black;
+  text-align: center;
+  font-size: 2rem;
+  margin-left: 5rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table tr:first-child {
+  background-color: steelblue;
+  color: #fff;
+}
+
+table tr:nth-child(2n + 3) {
+  background-color: #aaa;
+}
+
+nav.menu {
+  /* position: fixed; */
+  background-color: steelblue;
+  width: 100%;
+  height: 7rem;
+  z-index: 1;
+}
+
+.contact-list h2 {
+  top: 7rem;
+  position: sticky;
+  background-color: aqua;
+}
+
+.bg {
+  height: 100vh;
+  width: 100vw;
+  background-color: aqua;
+  background-image: url("https://plus.unsplash.com/premium_photo-1731329153355-1015daf2cb92?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.boxes {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box + span {
+  display: none;
+}
+
+.box {
+  flex: 30%;
+  color: #fff;
+  height: 10rem;
+  width: 20rem;
+  padding: 1.5rem;
+  margin: 1.5rem;
+  background-color: blue;
+  border: 1rem solid red;
+  display: inline-block;
+  border-radius: 0.4rem solid;
+  position: relative;
+}
+
+.box:nth-child(2) {
+  float: none;
+}
+
+.box + span {
+  clear: both;
+}
+
+/* .box:nth-child(1) {
+  position: relative;
+  top: 2rem;
+  left: 10rem;
+} */
+
+/* .box:nth-child(2) {
+  position: fixed;
+  top: 1.5rem;
+  left: 3rem;
+} */
+
+.box:nth-child(n + 2) {
+  display: flex;
+}
+
+.box p {
+  font-size: 2rem;
+}
+
+.box img {
+  height: 10rem;
+  width: 14rem;
+  object-fit: cover;
+}
+
+p {
+  font-size: 3.2rem;
+  margin: 1rem;
+}
