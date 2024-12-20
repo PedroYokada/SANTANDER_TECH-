@@ -259,12 +259,21 @@ a {
   }
 }
 
+/* h1{
+  display: none; 
+  visibility: hidden;
+  opacity: 1;
+} */
+
+/*   */
+
 #companies-table {
   /* display: none; */
 }
 
 [data-company] {
   background-color: aqua;
+  /* display: none; */
 }
 
 @media screen and (min-width: 1000px) {
@@ -272,6 +281,13 @@ a {
       height: 50vh;
   }
 }
+
+/* @media print{
+  .bg {
+    display: none;
+    Ao tentar imprimir a página, a imagem some
+  }
+} */
 
 @media screen and (min-width: 768px) and (max-width: 999px) {
   .bg {
