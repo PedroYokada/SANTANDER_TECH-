@@ -1,32 +1,25 @@
 # 💻 Curso Santander Tech+
 
-Neste curso do Santander Tech+, ofertado pela Ada Tech, irei colocar os projetos que desenvolverei. A trilha escolhida por mim foi a de **Front-End**. Os cursos que irei fazer nesta trilha são:
+Neste curso do **Santander Tech+**, ofertado pela **Ada Tech**, irei colocar os projetos que desenvolverei. A trilha escolhida por mim foi a de **Front-End**. 
 
 ### 📚 Cursos:
 
 - ![HTML Icon](https://img.icons8.com/color/20/html-5.png) **HTML**  
-  [https://github.com/PedroYokada/SANTANDER_TECH-/tree/main/HTML/EXERCICIOS_HTML]
+  [Acessar Projetos HTML](https://github.com/PedroYokada/SANTANDER_TECH-/tree/main/HTML/EXERCICIOS_HTML)
 
 - ![CSS Icon](https://img.icons8.com/color/20/css3.png) **CSS**  
-  [Adicionar link aqui]
+  [Acessar Projetos CSS](https://github.com/PedroYokada/SANTANDER_TECH-/tree/main/CSS)
 
 - ![JavaScript Icon](https://img.icons8.com/color/20/javascript.png) **Lógica de Programação Básica com JavaScript**  
-  [Adicionar link aqui]
+  [Acessar Projetos de Lógica com JavaScript](https://github.com/PedroYokada/SANTANDER_TECH-/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20com%20JavaScript)
 
 - ![JavaScript Icon](https://img.icons8.com/color/20/javascript.png) **Desenvolvimento Web Básico com JavaScript**  
-  [Adicionar link aqui]
+  [Acessar Projetos de Desenvolvimento Web com JavaScript](https://github.com/PedroYokada/SANTANDER_TECH-/tree/main/Desenvolvimento%20Web%20b%C3%A1sico%20com%20JavaScript/aula13)
 
 - ![React Icon](https://img.icons8.com/color/20/react-native.png) **React - Básico**  
-  [Adicionar link aqui]
-
-- ![Figma Icon](https://img.icons8.com/color/20/figma.png) **Figma para Devs**  
-  [Adicionar link aqui]
-
-- ![Git Icon](https://img.icons8.com/color/20/git.png) **Git e Versionamento**  
-  [Adicionar link aqui]
+  [Acessar Projetos React](#)  <!-- Adicionar link aqui -->
 
 ---
 
 ### 🚀 **Objetivo:**
-Desenvolver habilidades fundamentais em Front-End e criar projetos práticos aplicando os conceitos aprendidos durante o curso.
-
+Desenvolver habilidades fundamentais em **Front-End** e criar projetos práticos aplicando os conceitos aprendidos durante o curso.
