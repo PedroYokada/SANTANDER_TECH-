@@ -1,0 +1,1 @@
+console.log("ANTES da criação da promisse");
