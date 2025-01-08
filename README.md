@@ -14,7 +14,7 @@ Neste curso do **Santander Tech+**, ofertado pela **Ada Tech**, irei colocar os 
   [Acessar Projetos de Lógica com JavaScript](https://github.com/PedroYokada/SANTANDER_TECH-/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20com%20JavaScript)
 
 - ![JavaScript Icon](https://img.icons8.com/color/20/javascript.png) **Desenvolvimento Web Básico com JavaScript**  
-  [Acessar Projetos de Desenvolvimento Web com JavaScript](https://github.com/PedroYokada/SANTANDER_TECH-/tree/main/Desenvolvimento%20Web%20b%C3%A1sico%20com%20JavaScript/aula13)
+  [Acessar Projetos de Desenvolvimento Web com JavaScript](https://github.com/PedroYokada/SANTANDER_TECH-/tree/main/Desenvolvimento%20Web%20básico%20com%20JavaScript)
 
 - ![React Icon](https://img.icons8.com/color/20/react-native.png) **React - Básico**  
   [Acessar Projetos React](#)  <!-- Adicionar link aqui -->
