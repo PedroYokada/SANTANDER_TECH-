@@ -1,6 +1,15 @@
 # 💻 Curso Santander Tech+
 
-Neste curso do **Santander Tech+**, ofertado pela **Ada Tech**, irei colocar os projetos que desenvolverei. A trilha escolhida por mim foi a de **Front-End**. 
+Neste curso do **Santander Tech+**, ofertado pela **Ada Tech**, aprendi e reaprendi conceitos de:  
+- 🌐 **HTML**  
+- 🎨 **CSS**  
+- ⚙️ **JavaScript**  
+- 🔄 **Versionamento de código (Git/GitHub)**  
+- 🎨 **Figma**  
+- 🚀 **Desenvolvimento Web com JavaScript e React**  
+
+Neste repositório, estão exercícios e projetos relacionados a esses assuntos.  
+A trilha escolhida por mim foi a de **Front-End**.  
 
 ### 📚 Cursos:
 
@@ -17,7 +26,7 @@ Neste curso do **Santander Tech+**, ofertado pela **Ada Tech**, irei colocar os 
   [Acessar Projetos de Desenvolvimento Web com JavaScript](https://github.com/PedroYokada/SANTANDER_TECH-/tree/main/Desenvolvimento%20Web%20básico%20com%20JavaScript)
 
 - ![React Icon](https://img.icons8.com/color/20/react-native.png) **React - Básico**  
-  [Acessar Projetos React](#)  <!-- Adicionar link aqui -->
+  [Acessar Projetos React](https://github.com/PedroYokada/SANTANDER_TECH-/tree/main/ReactJS)  
 
 ---
 
