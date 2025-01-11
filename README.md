@@ -31,4 +31,4 @@ A trilha escolhida por mim foi a de **Front-End**.
 ---
 
 ### 🚀 **Objetivo:**
-Desenvolver habilidades fundamentais em **Front-End** e criar projetos práticos aplicando os conceitos aprendidos durante o curso.
+Desenvolvi habilidades fundamentais em Front-End e criei projetos práticos que aplicam os conceitos aprendidos ao longo do curso.
